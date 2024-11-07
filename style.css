@@ -1,0 +1,60 @@
+body{
+    background-color: rgba(128, 0, 128, 0.286);
+}
+.center{
+    background-color: rgba(0, 0, 255, 0.368);
+    width: 80%;
+    height: 300px;
+
+}
+
+.container{
+    height: 300px;
+    width: 70%;
+    position: relative;
+    top: 200px;
+    left: 200px;
+    background-color: rgb(10, 116, 10);
+   
+}
+
+h1{
+    color: white;
+}
+
+.button{
+    border-radius: 5px;
+    width: 100px;
+    height: 50px;
+    margin: auto;
+}
+
+.btn {
+    margin: 0;
+    position: absolute;
+    top: 55%;
+    left: 10%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    margin: 10px;
+  }
+
+  #red{
+    background-color: red;
+    margin-right: 10px;
+  }
+
+  #blue{
+    background-color: blue;
+    margin-right: 10px;
+  }
+
+  #green{
+    background-color: green;
+    margin-right: 10px;
+  }
+
+  #yellow{
+    background-color: yellow;
+    margin-right: 10px;
+  }
